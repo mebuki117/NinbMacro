@@ -20,7 +20,7 @@ Ninjabrain Bot（以下Ninb）をシングルディスプレイでも使いや�
     NinbX = 表示するX座標
     NinbY = 表示するY座標
     NinbSize = Ninbのサイズ設定 (0= Small, 1= Medium)
-    ViewCoords = 表示する候補の数 (1~5。上位から表示します)
+    ViewCoords = 表示する候補の数 (1~5。上位から表示します。2以上にするとDivineも表示可能です)
     NinbPic = Ninbのオーバーレイ用の画像パス (Ninbの設定からパスを取得してください)
     
     GuiShowHide = 表示/非表示を行うキー (デフォルトはJ。91行目で変更)
