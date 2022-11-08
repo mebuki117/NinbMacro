@@ -23,7 +23,7 @@ Ninjabrain Bot（以下Ninb）をシングルディスプレイでも使いや�
     ViewCoords = 表示する候補の数 (1~5。上位から表示します。2以上にするとDivineも表示可能です)
     NinbPic = Ninbのオーバーレイ用の画像パス (Ninbの設定からパスを取得してください)
     
-    GuiShowHide = 表示/非表示を行うキー (デフォルトはJ。91行目で変更)
+    GuiShowHide = 表示/非表示を行うキー (デフォルトはJ。100行目と105行目)
     
 ## 使い方
 NinbMacroを起動して、通常通りNinbを使用します。  
