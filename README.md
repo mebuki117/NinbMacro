@@ -32,7 +32,3 @@ Ninbに計算結果が表示されている場合、設定された座標に画�
 
 ## 連絡
 バグや要望などあれば[製作者のTwitter](https://twitter.com/oyamelon)までお願い致します。
-
-----
-
-###### 本レポジトリは、[Supporting-Ninb-on-a-single-display](https://github.com/oyamelon/Supporting-Ninb-on-a-single-display)を新しくしています。
